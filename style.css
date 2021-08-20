@@ -1,0 +1,20 @@
+body
+{
+    background-image:url(prback.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#canvas
+{
+    border-width:10px;
+    background-color: rgba(255, 255,255, 0.9); 
+    border-style:ridge;
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+}
+
